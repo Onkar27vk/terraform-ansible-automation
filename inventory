@@ -1,0 +1,7 @@
+[servers]
+13.235.74.159
+15.206.211.97
+13.233.15.255
+
+[servers:vars]
+ansible_user=ubuntu
